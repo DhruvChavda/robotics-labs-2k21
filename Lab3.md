@@ -50,3 +50,20 @@ _[source code 2: Listener](https://github.com/aniskoubaa/ros_essentials_cpp/blob
 > Here two terminals are open, one for the **talker** and another for the **listener**. When we run the talker code they print the data and send to the listener parallelly, we run listener code then they accept the talker request and print data same as a talker code output.
 
 > **NOTE**: And the output never stops. We need to terminate the code using `ctrl+c`. This talker and listener code can be used to control manipulate the turtlebot
+
+### RQT Plots of turtlesim Cleaner Code
+
+We generated rqt codes using following commands:
+```
+rosrun rqt_plot rqt_plot
+```
+##### The following results are obtained
+
+![c2](./lab3c2.png)
+
+![c3](./lab3c3.png)
+
+when turtle reach the point then all line are may constant and not change according to time
+
+![c4](./lab3c4.png)
+
