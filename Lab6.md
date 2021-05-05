@@ -7,7 +7,6 @@ $ roslaunch turtlebot3_gazebo turtlebot3_house.launch
 This will open the `house world` inside gazebo.
 
 ```
-
 roslaunch turtlebot3_navigation turtlebot3_navigation.launch map_file:=$HOME/map.yaml
 ```
 
