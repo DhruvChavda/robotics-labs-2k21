@@ -1,4 +1,4 @@
-# Tutorial 1: Start the ROS Master node "ROSCORE"
+# Lab 1: Start the ROS Master node "ROSCORE"
 
 ## We can follow these 3 steps to open the **master node**
 

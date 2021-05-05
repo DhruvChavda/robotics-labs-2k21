@@ -1,4 +1,4 @@
-# Tutorial 3: ROS Publisher and Subscribers in C++ and Python
+# Lab 3,4: ROS Publisher and Subscribers in C++ and Python
 
 **We control turtlesim with code written in python or cpp.**
 

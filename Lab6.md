@@ -1,13 +1,12 @@
-# Tutorial 6: Navigation and SLAM (AI/ML)
+# Lab 8: Navigation and SLAM (AI/ML)
 
 ```
 $ roslaunch turtlebot3_gazebo turtlebot3_house.launch
 ```
 
-This will open the `house world` inside gazebo.
+This will open the `house` world inside gazebo.
 
 ```
-
 roslaunch turtlebot3_navigation turtlebot3_navigation.launch map_file:=$HOME/map.yaml
 ```
 
@@ -26,10 +25,10 @@ The following things were observed from the output:
 
 ![lab62](./lab62.png)
 
-> The bluish area in the above figure indicates the spacious area and so the space is available`. The greenish-pink highlighted area shows that there is an obstacle.
+> The bluish area in the above figure indicates the spacious area and so the space is available. The bluish-pink highlighted area shows that there is an obstacle.
 
 ![lab63](./lab63.png)
 
 > We can see that `rviz` and `gazebo` works in sync with other.
 
-Gazebo _(left)_ acts as a real world reference where as rivz _(right)_ is for the sensory space vision.
+Gazebo _(right)_ acts as a real world reference where as rivz _(left)_ is for the sensory space vision.

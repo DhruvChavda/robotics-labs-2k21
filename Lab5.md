@@ -1,4 +1,4 @@
-# Tutorial 5: ROS Localization (Machine Vision)
+# Lab 7: ROS Localization (Machine Vision)
 
 **We used <i>Gazebo</i> to simulate our robot in real time environment**
 

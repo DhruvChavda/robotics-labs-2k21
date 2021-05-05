@@ -1,4 +1,4 @@
-# Tutorial: 2 Understanding ROS Topics, Node and Messages
+# Lab 2:Understanding ROS Topics, Node and Messages
 
 ## ROS Topics
 
