@@ -7,7 +7,7 @@
     _[Source Code cpp](https://github.com/aniskoubaa/ros_essentials_cpp)_  
     _[Source Code python](https://github.com/aniskoubaa/ros_essentials_cpp/blob/master/src/topic02_motion/turtlesim/turtlesim_cleaner.py)_
 
-There are 3 funtionsgiven in the code
+There are 3 funtions given in the code
 
 1. move (move the turtle)
 2. rotate (rotate the turtle)
